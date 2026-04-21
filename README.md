@@ -30,7 +30,6 @@
 <a href="https://wa.me/01516514923" target="_blank">WhatsApp</a> |
 <a href="https://www.facebook.com/iamshakil05" target="_blank">Facebook</a> |
 <a href="https://drive.google.com/file/d/1gjKB1MNWNNmJbixjcXPKzMFANJg7UJnN/view" target="_blank">Resume</a>
-</p>
 <a href="https://www.linkedin.com/in/iamshakil01/" target="_blank">Linkedin</a>
 </p>
 
