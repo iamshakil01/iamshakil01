@@ -16,10 +16,10 @@
 ## 🧑‍💻 About Me
 
 - 💻 MERN Stack Developer with strong expertise in **Frontend Development**
-- ⚛️ Specialized in **React.js, Next.js & Tailwind CSS**
+- ⚛️ Specialized in **React.js, Node.js, MongoDB & Tailwind CSS**
 - 🔭 Building real-world full-stack applications
 - 🌱 Currently learning **Advanced React & Performance Optimization**
-- 🎯 Target: Remote job in **Europe / USA**
+- 🎯 Target: Remote job
 - 📫 Email: **iamshakill02@gmail.com**
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://github.com/iamshakil01" target="blank">GitHub</a> |
-<a href="https://docs.google.com/document/d/1n0KW1CxWaVHVdO_-QeIetHrpRXpduS4g/edit" target="blank">Resume</a>
+<a href="https://drive.google.com/file/d/1gjKB1MNWNNmJbixjcXPKzMFANJg7UJnN/view?usp=drive_link" target="blank">Resume</a>
 </p>
 
 ---
